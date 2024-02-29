@@ -15,8 +15,6 @@ c) check the user name is palindrome or not
 
 
 
-
-
 i=0
 j=6
 for row in range (4):
